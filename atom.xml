@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-09-25T06:58:25.138Z</updated>
+  <updated>2023-09-25T07:05:55.836Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="http://example.com/2023/09/25/first-essay/"/>
     <id>http://example.com/2023/09/25/first-essay/</id>
     <published>2023-09-25T06:44:59.016Z</published>
-    <updated>2023-09-25T06:58:25.138Z</updated>
+    <updated>2023-09-25T07:05:55.836Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="这是第一篇文章的内容"><a href="#这是第一篇文章的内容" class="headerlink" title="这是第一篇文章的内容"></a>这是第一篇文章的内容</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="这是第一篇文章的内容"><a href="#这是第一篇文章的内容" class="headerlink" title="这是第一篇文章的内容"></a>这是第一篇文章的内容</h1><p>看了这个博主的博客觉得很好康就决定学着搭建了这个博客 （当个小赛博笔记本）</p><p><a href="https://blog.anheyu.com/posts/ddae.html#edae2ffd87eb44ffb062a7d9a9279ec2">使用 Github Pages 和 Hexo 搭建自己的独立博客 | 安知鱼 (anheyu.com)</a></p><p>当然后续的学习过程中发现了还有更快的教程就是下面这个链接（毕竟视频还是比文字快一点）</p><p><a href="https://www.bilibili.com/video/BV1ts4y1f7Gu?vd_source=60a924f18f89cd75f22d27a96c118a57">https://www.bilibili.com/video/BV1ts4y1f7Gu?vd_source=60a924f18f89cd75f22d27a96c118a57</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;这是第一篇文章的内容&quot;&gt;&lt;a href=&quot;#这是第一篇文章的内容&quot; class=&quot;headerlink&quot; title=&quot;这是第一篇文章的内容&quot;&gt;&lt;/a&gt;这是第一篇文章的内容&lt;/h1&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;这是第一篇文章的内容&quot;&gt;&lt;a href=&quot;#这是第一篇文章的内容&quot; class=&quot;headerlink&quot; title=&quot;这是第一篇文章的内容&quot;&gt;&lt;/a&gt;这是第一篇文章的内容&lt;/h1&gt;&lt;p&gt;看了这个博主的博客觉得很好康就决定学着搭建了这个博客 （当个小赛博笔记本）&lt;</summary>
       
     
     
